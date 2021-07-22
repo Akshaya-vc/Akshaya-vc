@@ -1,5 +1,5 @@
 ## Hi there, I'm Akshaya 👋
-### College Student :)  
+
 
 <!--
 **Akshaya-vc/Akshaya-vc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
