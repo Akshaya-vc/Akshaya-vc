@@ -19,7 +19,7 @@
 
 <div style="margin-top: 50px;" align="center">
 
-[![Akshaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshaya-vc&hide=stars&count_private=true&show_icons=true&theme=apprentice&bg_color=343636&icon_color=AD9178&title_color=AD9178&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Akshaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshaya-vc&hide=stars&count_private=true&show_icons=true&theme=apprentice&bg_color=343636&icon_color=AD9178&title_color=AD9178&hide_border=true)](https://github.com/Akshaya-vc?tab=repositories)
 
 </div>
 
