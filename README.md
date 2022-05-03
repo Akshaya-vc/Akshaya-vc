@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Akshaya
 
-<table>
+<table border="0">
 <tr>
 <td>
 <img src="https://media0.giphy.com/media/RKYWKAcyXsllal6GR1/giphy.gif" width="200" align="left">
