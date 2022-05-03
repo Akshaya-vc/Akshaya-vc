@@ -10,7 +10,7 @@
           <li> 🔭 I’m currently working on Web dev projects </li>
           <li> 🌱 Back to basics with Node js and DSA </li>
           <li> 💬 Have any ReactJS doubts? Would be glad to help </li>
-          <li> 📭 Reach out to me: [akshayav7c@gmail.com](akshayav7c@gmail.com) </li>
+          <li> 📭 Reach out to me: <a>akshayav7c@gmail.com</a></li>
           <li> 🍵 As you can see, I love coffee :) </li>
           </ul>
         </td>
